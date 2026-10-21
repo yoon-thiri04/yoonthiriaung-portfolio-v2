@@ -1,0 +1,912 @@
+[
+  {
+    "original": "academics/fourth-year/award-ceremon.jpg",
+    "source_filename": "award-ceremon.jpg",
+    "sha256": "5a6fbaa5874c119364d57da373bbfd26611c259dde2da02fb420e6d0b499154e",
+    "category": "academics",
+    "display": {
+      "src": "/media/5a6fbaa5874c-1280.webp",
+      "srcSet": "/media/5a6fbaa5874c-640.webp 640w, /media/5a6fbaa5874c-1280.webp 960w",
+      "full": "/media/5a6fbaa5874c-full.webp",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "academics/fourth-year/cover.jpg",
+    "source_filename": "cover.jpg",
+    "sha256": "8255f0073bc28529dc1dc083366506bfe44ae64caee8e98ea9d17059d0dd40c2",
+    "category": "academics",
+    "display": {
+      "src": "/media/8255f0073bc2-1280.webp",
+      "srcSet": "/media/8255f0073bc2-640.webp 640w, /media/8255f0073bc2-1280.webp 1080w",
+      "full": "/media/8255f0073bc2-full.webp",
+      "width": 1080,
+      "height": 1483
+    },
+    "note": ""
+  },
+  {
+    "original": "academics/myGPA- Semester-8.jpg",
+    "source_filename": "myGPA- Semester-8.jpg",
+    "sha256": "f53adf41e65aab7f301d2ec05a34eade5cf09bd6bd8596cbfa78f28f17b8a9d4",
+    "category": "academics",
+    "display": {
+      "src": "/media/f53adf41e65a-1280.webp",
+      "srcSet": "/media/f53adf41e65a-640.webp 640w, /media/f53adf41e65a-1280.webp 720w",
+      "full": "/media/f53adf41e65a-full.jpg",
+      "width": 720,
+      "height": 1054
+    },
+    "note": ""
+  },
+  {
+    "original": "academics/second-year/cover.jpg",
+    "source_filename": "cover.jpg",
+    "sha256": "1fd456f25611c4604ea23cdad18759fbcd39975c84c79de3fa046d1adf8e8607",
+    "category": "academics",
+    "display": {
+      "src": "/media/1fd456f25611-1280.webp",
+      "srcSet": "/media/1fd456f25611-640.webp 640w, /media/1fd456f25611-1280.webp 1280w",
+      "full": "/media/1fd456f25611-full.webp",
+      "width": 1920,
+      "height": 2560
+    },
+    "note": ""
+  },
+  {
+    "original": "academics/third-year/cover.jpg",
+    "source_filename": "cover.jpg",
+    "sha256": "9d3a3ea7235a1ceff5c25199d4ed626c819b3eebd06e68e0dace7bb4202b9241",
+    "category": "academics",
+    "display": {
+      "src": "/media/9d3a3ea7235a-1280.webp",
+      "srcSet": "/media/9d3a3ea7235a-640.webp 640w, /media/9d3a3ea7235a-1280.webp 960w",
+      "full": "/media/9d3a3ea7235a-full.webp",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/cerfiticate.jpg",
+    "source_filename": "cerfiticate.jpg",
+    "sha256": "bbc331567d30d190bddb9a452277a5701ae006103f7ec980ea0aa863843226a0",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/bbc331567d30-1280.webp",
+      "srcSet": "/media/bbc331567d30-640.webp 640w, /media/bbc331567d30-1280.webp 960w",
+      "full": "/media/bbc331567d30-full.jpg",
+      "width": 960,
+      "height": 907
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/cover.jpg",
+    "source_filename": "cover.jpg",
+    "sha256": "88349d98333eac2b9127c0303ff32d017c762ec992e5d14d4d108b7d80418221",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/88349d98333e-1280.webp",
+      "srcSet": "/media/88349d98333e-640.webp 640w, /media/88349d98333e-1280.webp 1280w",
+      "full": "/media/88349d98333e-full.webp",
+      "width": 2560,
+      "height": 1920
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/team-01.jpg",
+    "source_filename": "team-01.jpg",
+    "sha256": "e2782c421c055d0953d09fdff0fa1f67a283a32e2c91205e6c53f50f50393adc",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/e2782c421c05-1280.webp",
+      "srcSet": "/media/e2782c421c05-640.webp 640w, /media/e2782c421c05-1280.webp 1280w",
+      "full": "/media/e2782c421c05-full.webp",
+      "width": 2560,
+      "height": 1920
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/team-02.jpg",
+    "source_filename": "team-02.jpg",
+    "sha256": "f15cbc9ffaeb38a6be0ca9ce0a748bd2fa2d63b72de8dfe9ed97bfcd72525daf",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/f15cbc9ffaeb-1280.webp",
+      "srcSet": "/media/f15cbc9ffaeb-640.webp 640w, /media/f15cbc9ffaeb-1280.webp 1280w",
+      "full": "/media/f15cbc9ffaeb-full.webp",
+      "width": 2560,
+      "height": 1773
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/team-03.jpg",
+    "source_filename": "team-03.jpg",
+    "sha256": "5464a73193825a7bd3d37aaa94caa3511493c53265be4e3e650a4e424733821a",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/5464a7319382-1280.webp",
+      "srcSet": "/media/5464a7319382-640.webp 640w, /media/5464a7319382-1280.webp 720w",
+      "full": "/media/5464a7319382-full.webp",
+      "width": 720,
+      "height": 480
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/team-04.jpg",
+    "source_filename": "team-04.jpg",
+    "sha256": "f0e91c079dd03c8beff1b1e924a13cc81fdb05d043dc4a41133c69f60718fe1f",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/f0e91c079dd0-1280.webp",
+      "srcSet": "/media/f0e91c079dd0-640.webp 640w, /media/f0e91c079dd0-1280.webp 1280w",
+      "full": "/media/f0e91c079dd0-full.webp",
+      "width": 2560,
+      "height": 1707
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/team-06.jpg",
+    "source_filename": "team-06.jpg",
+    "sha256": "70866821662623d14bd69619b8faf5b0e38991201fd42129c6564318640721d1",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/708668216626-1280.webp",
+      "srcSet": "/media/708668216626-640.webp 640w, /media/708668216626-1280.webp 960w",
+      "full": "/media/708668216626-full.webp",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/team-07.jpg",
+    "source_filename": "team-07.jpg",
+    "sha256": "b5e7d68ad9616094403ffbb8db71a244313b642e8b30754246f00e7b6ee206fa",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/b5e7d68ad961-1280.webp",
+      "srcSet": "/media/b5e7d68ad961-640.webp 640w, /media/b5e7d68ad961-1280.webp 1280w",
+      "full": "/media/b5e7d68ad961-full.webp",
+      "width": 2560,
+      "height": 1707
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/team-08.jpg",
+    "source_filename": "team-08.jpg",
+    "sha256": "193ecbff4f7799d6512840873ba629997c7a4083eae4dddde35a78ef781e8424",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/193ecbff4f77-1280.webp",
+      "srcSet": "/media/193ecbff4f77-640.webp 640w, /media/193ecbff4f77-1280.webp 1280w",
+      "full": "/media/193ecbff4f77-full.webp",
+      "width": 2560,
+      "height": 1707
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/code2career/team-09.jpg",
+    "source_filename": "team-09.jpg",
+    "sha256": "f1b40222577d627326c4f8a532e10f62def5871e1c2432ecaf8c2d40a57eed50",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/f1b40222577d-1280.webp",
+      "srcSet": "/media/f1b40222577d-640.webp 640w, /media/f1b40222577d-1280.webp 1280w",
+      "full": "/media/f1b40222577d-full.webp",
+      "width": 1280,
+      "height": 960
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/certificate.png",
+    "source_filename": "certificate.png",
+    "sha256": "80ecd53cba00838df4389cb77b04d29be14e941eb30b45f8bd258486716717cf",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/80ecd53cba00-1280.webp",
+      "srcSet": "/media/80ecd53cba00-640.webp 640w, /media/80ecd53cba00-1280.webp 1001w",
+      "full": "/media/80ecd53cba00-full.png",
+      "width": 1001,
+      "height": 982
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/cover.jpg",
+    "source_filename": "cover.jpg",
+    "sha256": "76806f8b59de5293da6d84e9009107af0a9274fd5342040eeee76bc1597eb1c9",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/76806f8b59de-1280.webp",
+      "srcSet": "/media/76806f8b59de-640.webp 640w, /media/76806f8b59de-1280.webp 1280w",
+      "full": "/media/76806f8b59de-full.webp",
+      "width": 2560,
+      "height": 1920
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-1.jpg",
+    "source_filename": "fieldwork-1.jpg",
+    "sha256": "372aefbe8cc2c58d511f09bac1531ea6f0f989b29c4d08400dce01918ae4fd07",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/372aefbe8cc2-1280.webp",
+      "srcSet": "/media/372aefbe8cc2-640.webp 640w, /media/372aefbe8cc2-1280.webp 1280w",
+      "full": "/media/372aefbe8cc2-full.webp",
+      "width": 2560,
+      "height": 1707
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-10.JPG",
+    "source_filename": "fieldwork-10.JPG",
+    "sha256": "9b706c91b05aeaa7070ab4d50be4cc2f43b4284a11f62295cd3556ee5b276247",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/9b706c91b05a-1280.webp",
+      "srcSet": "/media/9b706c91b05a-640.webp 640w, /media/9b706c91b05a-1280.webp 1280w",
+      "full": "/media/9b706c91b05a-full.webp",
+      "width": 2560,
+      "height": 1920
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-11.JPG",
+    "source_filename": "fieldwork-11.JPG",
+    "sha256": "0cf6277e16844a9169a72c21efde8cf1ad2b219f7b3f9b9f77e11af8091160f0",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/0cf6277e1684-1280.webp",
+      "srcSet": "/media/0cf6277e1684-640.webp 640w, /media/0cf6277e1684-1280.webp 1280w",
+      "full": "/media/0cf6277e1684-full.webp",
+      "width": 5568,
+      "height": 3712
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-13.JPG",
+    "source_filename": "fieldwork-13.JPG",
+    "sha256": "3983a90b5c0cd2de26308333e74065a179a639022529947e1506f7bcdf8c532c",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/3983a90b5c0c-1280.webp",
+      "srcSet": "/media/3983a90b5c0c-640.webp 640w, /media/3983a90b5c0c-1280.webp 1280w",
+      "full": "/media/3983a90b5c0c-full.webp",
+      "width": 4284,
+      "height": 5712
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-2.JPG",
+    "source_filename": "fieldwork-2.JPG",
+    "sha256": "0287b97776b653512a8f271f5522813f8578e0d651d2fedafe3407c84ef3b6ec",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/0287b97776b6-1280.webp",
+      "srcSet": "/media/0287b97776b6-640.webp 640w, /media/0287b97776b6-1280.webp 1280w",
+      "full": "/media/0287b97776b6-full.webp",
+      "width": 5568,
+      "height": 3712
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-4.JPG",
+    "source_filename": "fieldwork-4.JPG",
+    "sha256": "855650918d0d938dd4dee3ff154a86e5ca7bfe450c3a9a65648c9299e29c84d1",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/855650918d0d-1280.webp",
+      "srcSet": "/media/855650918d0d-640.webp 640w, /media/855650918d0d-1280.webp 1280w",
+      "full": "/media/855650918d0d-full.webp",
+      "width": 5568,
+      "height": 3712
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-5.JPG",
+    "source_filename": "fieldwork-5.JPG",
+    "sha256": "aef10a9154621b775b75d33c59cfcb40cbf53e16a2326a38ce930377b232380f",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/aef10a915462-1280.webp",
+      "srcSet": "/media/aef10a915462-640.webp 640w, /media/aef10a915462-1280.webp 1280w",
+      "full": "/media/aef10a915462-full.webp",
+      "width": 5120,
+      "height": 2880
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-6.JPG",
+    "source_filename": "fieldwork-6.JPG",
+    "sha256": "9ac7703b49b9d0aad455da6079a7ec376f434cffb6a7ca97bb5984dc8a640229",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/9ac7703b49b9-1280.webp",
+      "srcSet": "/media/9ac7703b49b9-640.webp 640w, /media/9ac7703b49b9-1280.webp 1280w",
+      "full": "/media/9ac7703b49b9-full.webp",
+      "width": 5568,
+      "height": 3712
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-7.jpg",
+    "source_filename": "fieldwork-7.jpg",
+    "sha256": "070c962bf249d7db0275019fb39650defd34cf95ef4dc202f28c48204d9b27e2",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/070c962bf249-1280.webp",
+      "srcSet": "/media/070c962bf249-640.webp 640w, /media/070c962bf249-1280.webp 1280w",
+      "full": "/media/070c962bf249-full.webp",
+      "width": 2560,
+      "height": 1707
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-8.JPG",
+    "source_filename": "fieldwork-8.JPG",
+    "sha256": "bb112680d5e89c6a2221293d87e9573053e82c405daf9f2f0c0a2455b3f5f5a6",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/bb112680d5e8-1280.webp",
+      "srcSet": "/media/bb112680d5e8-640.webp 640w, /media/bb112680d5e8-1280.webp 1280w",
+      "full": "/media/bb112680d5e8-full.webp",
+      "width": 5568,
+      "height": 3712
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/fieldwork-9.JPG",
+    "source_filename": "fieldwork-9.JPG",
+    "sha256": "7d538e5f77cd7db1a6e6298d73d2e75207469ff4c118abf7c870157350e87035",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/7d538e5f77cd-1280.webp",
+      "srcSet": "/media/7d538e5f77cd-640.webp 640w, /media/7d538e5f77cd-1280.webp 1280w",
+      "full": "/media/7d538e5f77cd-full.webp",
+      "width": 2560,
+      "height": 1920
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/eba-minamata-2026/invitationLetter.png",
+    "source_filename": "invitationLetter.png",
+    "sha256": "6d41773e8347409a501891a25da89e01db80225667612e18d4c39392470a213c",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/6d41773e8347-1280.webp",
+      "srcSet": "/media/6d41773e8347-640.webp 640w, /media/6d41773e8347-1280.webp 890w",
+      "full": "/media/6d41773e8347-full.png",
+      "width": 890,
+      "height": 967
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/falcon-hackathon/cover.png",
+    "source_filename": "cover.png",
+    "sha256": "ecfcb34e026c027506655e29efb59370adcc8d8382892738bba1a63e6d369ec9",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/ecfcb34e026c-1280.webp",
+      "srcSet": "/media/ecfcb34e026c-640.webp 640w, /media/ecfcb34e026c-1280.webp 1280w",
+      "full": "/media/ecfcb34e026c-full.webp",
+      "width": 1600,
+      "height": 2264
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/icait2026/cover.png",
+    "source_filename": "cover.png",
+    "sha256": "abbff8c655fcf8246fb4376064f36250b6ec337094f7299e6b1958aa1282caa8",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/abbff8c655fc-1280.webp",
+      "srcSet": "/media/abbff8c655fc-640.webp 640w, /media/abbff8c655fc-1280.webp 890w",
+      "full": "/media/abbff8c655fc-full.png",
+      "width": 890,
+      "height": 972
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/certificate.jpg",
+    "source_filename": "certificate.jpg",
+    "sha256": "26b3b88e47b5a13c785e093d59c928716d7d7373181860ffbd940b14c587e108",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/26b3b88e47b5-1280.webp",
+      "srcSet": "/media/26b3b88e47b5-640.webp 640w, /media/26b3b88e47b5-1280.webp 1280w",
+      "full": "/media/26b3b88e47b5-full.jpg",
+      "width": 2048,
+      "height": 1582
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/cover.jpg",
+    "source_filename": "cover.jpg",
+    "sha256": "8d093039eb0a5bfa902cb49757bb2a310a3cce7ec5f25ad7bf57c1b452fe155f",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/8d093039eb0a-1280.webp",
+      "srcSet": "/media/8d093039eb0a-640.webp 640w, /media/8d093039eb0a-1280.webp 1280w",
+      "full": "/media/8d093039eb0a-full.webp",
+      "width": 1280,
+      "height": 960
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/team-01.jpg",
+    "source_filename": "team-01.jpg",
+    "sha256": "a50ea88fdba9c31e853ffd883a2fcc88883780980b4ba240fd8191a9426078ae",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/a50ea88fdba9-1280.webp",
+      "srcSet": "/media/a50ea88fdba9-640.webp 640w, /media/a50ea88fdba9-1280.webp 960w",
+      "full": "/media/a50ea88fdba9-full.webp",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/team-02.jpg",
+    "source_filename": "team-02.jpg",
+    "sha256": "ccaba6241ff137d421a877ce9763c632ca21222df5a7726f6a9e8f3d40387b1b",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/ccaba6241ff1-1280.webp",
+      "srcSet": "/media/ccaba6241ff1-640.webp 640w, /media/ccaba6241ff1-1280.webp 1280w",
+      "full": "/media/ccaba6241ff1-full.webp",
+      "width": 1280,
+      "height": 853
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/team-03.jpg",
+    "source_filename": "team-03.jpg",
+    "sha256": "a18c67e6b7da8c0d050dca3256a30705b391d48870755578996ab90e3afaa987",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/a18c67e6b7da-1280.webp",
+      "srcSet": "/media/a18c67e6b7da-640.webp 640w, /media/a18c67e6b7da-1280.webp 960w",
+      "full": "/media/a18c67e6b7da-full.webp",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/team-04.jpg",
+    "source_filename": "team-04.jpg",
+    "sha256": "69c4e722266607f4f7be7109fa47e366a46f33fd7cee25d6919a0d7645a98051",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/69c4e7222666-1280.webp",
+      "srcSet": "/media/69c4e7222666-640.webp 640w, /media/69c4e7222666-1280.webp 960w",
+      "full": "/media/69c4e7222666-full.webp",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/team-05.jpg",
+    "source_filename": "team-05.jpg",
+    "sha256": "9da1068345b209e4b0e9d96aeac41fbd16741f48cceed64eb7f013d30ef5e0b6",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/9da1068345b2-1280.webp",
+      "srcSet": "/media/9da1068345b2-640.webp 640w, /media/9da1068345b2-1280.webp 720w",
+      "full": "/media/9da1068345b2-full.webp",
+      "width": 720,
+      "height": 810
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/team-06.jpg",
+    "source_filename": "team-06.jpg",
+    "sha256": "e641833b0c966c0ad0ad36ec7f44ee19443f1a5380f9a9ed6307af996b41092a",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/e641833b0c96-1280.webp",
+      "srcSet": "/media/e641833b0c96-640.webp 640w, /media/e641833b0c96-1280.webp 960w",
+      "full": "/media/e641833b0c96-full.webp",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/team-07.jpg",
+    "source_filename": "team-07.jpg",
+    "sha256": "b0e0607d0d509948b6f92ac0acc9e29769a0a0071debb9b8d6428c59eccaa8b7",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/b0e0607d0d50-1280.webp",
+      "srcSet": "/media/b0e0607d0d50-640.webp 640w, /media/b0e0607d0d50-1280.webp 1280w",
+      "full": "/media/b0e0607d0d50-full.webp",
+      "width": 1280,
+      "height": 853
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/team-08.jpg",
+    "source_filename": "team-08.jpg",
+    "sha256": "5d252aaf5892cb006200e292f1da4a2313d6b03cc4655d095aff73babb3d9f14",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/5d252aaf5892-1280.webp",
+      "srcSet": "/media/5d252aaf5892-640.webp 640w, /media/5d252aaf5892-1280.webp 960w",
+      "full": "/media/5d252aaf5892-full.webp",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "activities&hackathons/venture-base-2025/team-09.jpg",
+    "source_filename": "team-09.jpg",
+    "sha256": "360ac99c043d2b9b0d43693ea4108a6e4399ff2ee7cd733cdade0f54ca102b5a",
+    "category": "activities&hackathons",
+    "display": {
+      "src": "/media/360ac99c043d-1280.webp",
+      "srcSet": "/media/360ac99c043d-640.webp 640w, /media/360ac99c043d-1280.webp 960w",
+      "full": "/media/360ac99c043d-full.webp",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/CERTICATE OF COMPLETION TOYOHASHI ENIGEERING.png",
+    "source_filename": "CERTICATE OF COMPLETION TOYOHASHI ENIGEERING.png",
+    "sha256": "feba3497a9ee15f732e8fd151e53daedcc9007e8e1def7b87c75172e685ad95a",
+    "category": "certifications",
+    "display": {
+      "src": "/media/feba3497a9ee-1280.webp",
+      "srcSet": "/media/feba3497a9ee-640.webp 640w, /media/feba3497a9ee-1280.webp 1086w",
+      "full": "/media/feba3497a9ee-full.png",
+      "width": 1086,
+      "height": 750
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/Udacity Bertelsmann Scholarship 2023.png",
+    "source_filename": "Udacity Bertelsmann Scholarship 2023.png",
+    "sha256": "5f115c5b82788891e42aeed459dd06bdf360ae93ca72fee66e5ae562bcec59ea",
+    "category": "certifications",
+    "display": {
+      "src": "/media/5f115c5b8278-1280.webp",
+      "srcSet": "/media/5f115c5b8278-640.webp 640w, /media/5f115c5b8278-1280.webp 800w",
+      "full": "/media/5f115c5b8278-full.png",
+      "width": 800,
+      "height": 800
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/Udacity Bertelsmann Scholarship 2024.png",
+    "source_filename": "Udacity Bertelsmann Scholarship 2024.png",
+    "sha256": "3c8fb275072b022d7217b37596f9e24a0b98f641172a0599a31e0a50ba59956d",
+    "category": "certifications",
+    "display": {
+      "src": "/media/3c8fb275072b-1280.webp",
+      "srcSet": "/media/3c8fb275072b-640.webp 640w, /media/3c8fb275072b-1280.webp 800w",
+      "full": "/media/3c8fb275072b-full.png",
+      "width": 800,
+      "height": 800
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/datacamp-intermediate-python.png",
+    "source_filename": "datacamp-intermediate-python.png",
+    "sha256": "89580ff258dc82e3265c9e5279c2527bdb94b1f361d657575e3010793e449e16",
+    "category": "certifications",
+    "display": {
+      "src": "/media/89580ff258dc-1280.webp",
+      "srcSet": "/media/89580ff258dc-640.webp 640w, /media/89580ff258dc-1280.webp 1280w",
+      "full": "/media/89580ff258dc-full.png",
+      "width": 1492,
+      "height": 857
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/datacamp-supervised-learning.png",
+    "source_filename": "datacamp-supervised-learning.png",
+    "sha256": "969b1ffbfcd1d443c56686c14d2091aafadfbab37fc58bed6341e2749a33e1d0",
+    "category": "certifications",
+    "display": {
+      "src": "/media/969b1ffbfcd1-1280.webp",
+      "srcSet": "/media/969b1ffbfcd1-640.webp 640w, /media/969b1ffbfcd1-1280.webp 1280w",
+      "full": "/media/969b1ffbfcd1-full.png",
+      "width": 1501,
+      "height": 861
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/high-school-mathematics.png",
+    "source_filename": "high-school-mathematics.png",
+    "sha256": "40bddbeb3f928ef638524b7d48bc431b3229811d30d97b0561ad5337a0753da1",
+    "category": "certifications",
+    "display": {
+      "src": "/media/40bddbeb3f92-1280.webp",
+      "srcSet": "/media/40bddbeb3f92-640.webp 640w, /media/40bddbeb3f92-1280.webp 1280w",
+      "full": "/media/40bddbeb3f92-full.png",
+      "width": 1448,
+      "height": 1086
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/kbzpay-student-ambassador-01- certificate.png",
+    "source_filename": "kbzpay-student-ambassador-01- certificate.png",
+    "sha256": "024b9a5cada0828968a1c7689e14fbc18f5490966ac5edb0f1db60d4860e2a8b",
+    "category": "certifications",
+    "display": {
+      "src": "/media/024b9a5cada0-1280.webp",
+      "srcSet": "/media/024b9a5cada0-640.webp 640w, /media/024b9a5cada0-1280.webp 1280w",
+      "full": "/media/024b9a5cada0-full.png",
+      "width": 1448,
+      "height": 1086
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/kbzpay-student-ambassador-02.png",
+    "source_filename": "kbzpay-student-ambassador-02.png",
+    "sha256": "7c02e096792922b83b234f52a664da1a34765250bd479aeb944f7d0b96618732",
+    "category": "certifications",
+    "display": {
+      "src": "/media/7c02e0967929-1280.webp",
+      "srcSet": "/media/7c02e0967929-640.webp 640w, /media/7c02e0967929-1280.webp 960w",
+      "full": "/media/7c02e0967929-full.png",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/kbzpay-student-ambassador-03.png",
+    "source_filename": "kbzpay-student-ambassador-03.png",
+    "sha256": "fec7f94170922891340787acedf6da639f9fe3052cf6a193309336b5f209b155",
+    "category": "certifications",
+    "display": {
+      "src": "/media/fec7f9417092-1280.webp",
+      "srcSet": "/media/fec7f9417092-640.webp 640w, /media/fec7f9417092-1280.webp 1280w",
+      "full": "/media/fec7f9417092-full.png",
+      "width": 2560,
+      "height": 1920
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/kbzpay-student-ambassador-04.png",
+    "source_filename": "kbzpay-student-ambassador-04.png",
+    "sha256": "3f8020e25ffcdfc67eb01e9031738b0c7103e9cc46f273cc2304557a218defce",
+    "category": "certifications",
+    "display": {
+      "src": "/media/3f8020e25ffc-1280.webp",
+      "srcSet": "/media/3f8020e25ffc-640.webp 640w, /media/3f8020e25ffc-1280.webp 960w",
+      "full": "/media/3f8020e25ffc-full.png",
+      "width": 960,
+      "height": 1280
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/oracle-generative-ai.png",
+    "source_filename": "oracle-generative-ai.png",
+    "sha256": "4dd8cd50d78720afed58d9ebbf71fa8d036e15c11d918b2c8ebd6f4b05b4e2c2",
+    "category": "certifications",
+    "display": {
+      "src": "/media/4dd8cd50d787-1280.webp",
+      "srcSet": "/media/4dd8cd50d787-640.webp 640w, /media/4dd8cd50d787-1280.webp 1280w",
+      "full": "/media/4dd8cd50d787-full.png",
+      "width": 1317,
+      "height": 966
+    },
+    "note": ""
+  },
+  {
+    "original": "certifications/soi-evidence-based-approach.png",
+    "source_filename": "soi-evidence-based-approach.png",
+    "sha256": "80ecd53cba00838df4389cb77b04d29be14e941eb30b45f8bd258486716717cf",
+    "category": "certifications",
+    "display": {
+      "src": "/media/80ecd53cba00-1280.webp",
+      "srcSet": "/media/80ecd53cba00-640.webp 640w, /media/80ecd53cba00-1280.webp 1001w",
+      "full": "/media/80ecd53cba00-full.png",
+      "width": 1001,
+      "height": 982
+    },
+    "note": ""
+  },
+  {
+    "original": "profile/animated-avatar.png",
+    "source_filename": "animated-avatar.png",
+    "sha256": "e9c6464fe466bed2e19e53bfaa49b955265788c59a2b76d3510f5d82b4e78f96",
+    "category": "profile",
+    "display": {
+      "src": "/media/e9c6464fe466-1280.webp",
+      "srcSet": "/media/e9c6464fe466-640.webp 640w, /media/e9c6464fe466-1280.webp 1024w",
+      "full": "/media/e9c6464fe466-full.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    "note": ""
+  },
+  {
+    "original": "profile/portrait.jpg",
+    "source_filename": "portrait.jpg",
+    "sha256": "9d9ba32c4a444d67cc4e1cfba11535297a242f3905d577b7c603c5d7ed9f3630",
+    "category": "profile",
+    "display": {
+      "src": "/media/9d9ba32c4a44-1280.webp",
+      "srcSet": "/media/9d9ba32c4a44-640.webp 640w, /media/9d9ba32c4a44-1280.webp 828w",
+      "full": "/media/9d9ba32c4a44-full.webp",
+      "width": 828,
+      "height": 1098
+    },
+    "note": ""
+  },
+  {
+    "original": "projects/01-anipulse/cover.png",
+    "source_filename": "cover.png",
+    "sha256": "7748c546ba24b221615a5d23e16c81f968c12d6510f1ccdf62358f486708ab29",
+    "category": "projects",
+    "display": {
+      "src": "/media/7748c546ba24-1280.webp",
+      "srcSet": "/media/7748c546ba24-640.webp 640w, /media/7748c546ba24-1280.webp 1280w",
+      "full": "/media/7748c546ba24-full.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    "note": ""
+  },
+  {
+    "original": "projects/01-anipulse/dashboard.png",
+    "source_filename": "dashboard.png",
+    "sha256": "803919e61656ca9ec32ee40f472c23ddb7028d0467b93fd4695cd388000c0fc4",
+    "category": "projects",
+    "display": {
+      "src": "/media/803919e61656-1280.webp",
+      "srcSet": "/media/803919e61656-640.webp 640w, /media/803919e61656-1280.webp 1280w",
+      "full": "/media/803919e61656-full.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    "note": ""
+  },
+  {
+    "original": "projects/02-wolfeye-plus/cover.png",
+    "source_filename": "cover.png",
+    "sha256": "8b465a9ec0785a034fbf58022afd01401654e752b12ee1efcf89646cf248a82d",
+    "category": "projects",
+    "display": {
+      "src": "/media/8b465a9ec078-1280.webp",
+      "srcSet": "/media/8b465a9ec078-640.webp 640w, /media/8b465a9ec078-1280.webp 1200w",
+      "full": "/media/8b465a9ec078-full.webp",
+      "width": 1200,
+      "height": 577
+    },
+    "note": ""
+  },
+  {
+    "original": "projects/03-ucsy-intellichat/cover.png",
+    "source_filename": "cover.png",
+    "sha256": "79c2164100996fc7c7435ca6a0e0eb887bf7f3b5db6d0aa937f5563c34733b03",
+    "category": "projects",
+    "display": {
+      "src": "/media/79c216410099-1280.webp",
+      "srcSet": "/media/79c216410099-640.webp 640w, /media/79c216410099-1280.webp 1280w",
+      "full": "/media/79c216410099-full.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "note": ""
+  },
+  {
+    "original": "projects/04-flavour-forge/cover.png",
+    "source_filename": "cover.png",
+    "sha256": "c074e9f590c5dc137a3a39d39375ae86dc4ee7c641dcb48601c816e429858850",
+    "category": "projects",
+    "display": {
+      "src": "/media/c074e9f590c5-1280.webp",
+      "srcSet": "/media/c074e9f590c5-640.webp 640w, /media/c074e9f590c5-1280.webp 1280w",
+      "full": "/media/c074e9f590c5-full.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    "note": ""
+  },
+  {
+    "original": "projects/05-pathfinder/cover.png",
+    "source_filename": "cover.png",
+    "sha256": "3b8208bc514d4706249202ad86acd465c88ba870246abfbc0b348150fd5bf14e",
+    "category": "projects",
+    "display": {
+      "src": "/media/3b8208bc514d-1280.webp",
+      "srcSet": "/media/3b8208bc514d-640.webp 640w, /media/3b8208bc514d-1280.webp 1280w",
+      "full": "/media/3b8208bc514d-full.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    "note": ""
+  },
+  {
+    "original": "projects/06-ink2text-mm/ChatGPT Image Oct 18, 2026, 04_04_00 PM-1.png",
+    "source_filename": "ChatGPT Image Oct 18, 2026, 04_04_00 PM-1.png",
+    "sha256": "b118d495195851f2e08eff575c4907dd9d1f6df0a80284c98cf1ec853cd4a3b3",
+    "category": "projects",
+    "display": {
+      "src": "/media/b118d4951958-1280.webp",
+      "srcSet": "/media/b118d4951958-640.webp 640w, /media/b118d4951958-1280.webp 1280w",
+      "full": "/media/b118d4951958-full.webp",
+      "width": 1672,
+      "height": 941
+    },
+    "note": ""
+  },
+  {
+    "original": "projects/07-environnet/EnvNet.png",
+    "source_filename": "EnvNet.png",
+    "sha256": "69ecdd74e890af0b07db5500d8f8f7448a858d43e9743b5407031e969b2b270e",
+    "category": "projects",
+    "display": {
+      "src": "/media/69ecdd74e890-1280.webp",
+      "srcSet": "/media/69ecdd74e890-640.webp 640w, /media/69ecdd74e890-1280.webp 1280w",
+      "full": "/media/69ecdd74e890-full.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "note": ""
+  },
+  {
+    "original": "projects/01-anipulse/approved-new-cover.png",
+    "source_filename": "Anime Analytics Across Devices-1.png",
+    "sha256": "bd8a8bb723a6912258a8a80ec0c61575e5301855c59656462492fb556faf1f26",
+    "category": "projects",
+    "display": {
+      "src": "/media/bd8a8bb723a6-1280.webp",
+      "srcSet": "/media/bd8a8bb723a6-640.webp 640w, /media/bd8a8bb723a6-1280.webp 1280w",
+      "full": "/media/bd8a8bb723a6-full.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    "note": "Approved replacement Anipulse image"
+  }
+]

@@ -42,5 +42,3 @@ All editable text and records are in `src/content.ts`:
 - Staggered blur-to-focus scroll reveals, deliberate slide transitions, intro animation, restrained click feedback, and subtle portrait motion. Skills use translucent panels with scroll-reactive rose/champagne glows. Reduced motion makes the content immediately visible.
 - Semantic landmarks, visible keyboard focus, image alt text, responsive image dimensions, and a working mobile menu.
 
-
-
